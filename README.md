@@ -16,3 +16,12 @@ docker compose up -d
 ```
 Docker compose will create a shared network for the components and exposes the fronend to the localhost:3000
 
+### Project Preview
+- Create Model Page
+![Create Model Page](docs/images/createmodelpage.png)
+
+- Models Page
+![Models Page](docs/images/modelspage.png)
+
+- Generate Page
+![Generate Page](docs/images/generatepage.png)
